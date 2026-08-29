@@ -1,6 +1,6 @@
-# RSS-Claw 智能周报
+# RSS-Claw 备份仓库
 
-> 由 RSS-Claw 自动生成的科技日报 / 周报 / 月报。
+> 由 [RSS-Claw](https://news.bk4ice.live) 自动生成的科技日报 / 周报 / 月报。
 > 每天自动抓取、AI 分析、发布。
 
 ## 2026
