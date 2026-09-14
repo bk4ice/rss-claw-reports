@@ -2,50 +2,10 @@
 
 ## 失败流程
 
-`llm`
+`planner`
 
 ## 错误信息
 
-历史任务期间外部 LLM 服务持续返回 500 或连接失败；未生成日报内容。
+planner: planner omitted 123 articles from the section plan
 
 本次未生成降级日报内容。请修复对应流程后重新运行日报生成。
-
-
----
-
-## 📎 arXiv Computer Vision and Pattern Recognition · 2026-09-13
-
-> 📰 arXiv 本期无新论文更新（周末休刊），下次更新请关注周一。
-
----
-
-## 📎 arXiv Artificial Intelligence · 2026-09-13
-
-> 📰 arXiv 本期无新论文更新（周末休刊），下次更新请关注周一。
-
----
-
-## 📎 arXiv Machine Learning · 2026-09-13
-
-> 📰 arXiv 本期无新论文更新（周末休刊），下次更新请关注周一。
-
----
-
-## 📎 arXiv Computation and Language · 2026-09-13
-
-> 📰 arXiv 本期无新论文更新（周末休刊），下次更新请关注周一。
-
----
-
-## 📎 产品机会雷达 · 2026-09-13
-
-### ❌ 产品机会雷达生成失败
-
-**失败流程**：`candidate_review`
-
-**错误信息**：历史任务期间外部 LLM 服务持续返回 500 或连接失败；未生成产品方案。
-
-本次未生成降级产品方案，请修复该流程后重新运行。
-
-
----
