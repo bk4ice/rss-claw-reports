@@ -6,6 +6,6 @@
 
 ## 错误信息
 
-planner: batch 0 failed after 3 attempts: LLM API returned 403: {"error":{"message":"Free quota exhausted. To continue accessing the model on a paid basis, please add funds or disable the \"use free tier only\" mode in the management console.","type":"AllocationQuota.FreeTierOnly","param":null,"code":"AllocationQuota.FreeTierOnly"},"id":"chatcmpl-35fff1c2-e0ac-9953-be1c-86523547e900","request_id":"35fff1c2-e0ac-9953-be1c-86523547e900"}
+planner: batch 0 failed after 3 attempts: LLM API returned 403: {"error":{"message":"Free quota exhausted. To continue accessing the model on a paid basis, please add funds or disable the \"use free tier only\" mode in the management console.","type":"AllocationQuota.FreeTierOnly","param":null,"code":"AllocationQuota.FreeTierOnly"},"id":"chatcmpl-33dd6f7a-044e-93cc-9c77-1f2b1c581700","request_id":"33dd6f7a-044e-93cc-9c77-1f2b1c581700"}
 
 本次未生成降级日报内容。请修复对应流程后重新运行日报生成。
