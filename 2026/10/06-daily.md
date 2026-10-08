@@ -2,10 +2,10 @@
 
 ## 失败流程
 
-`planner`
+`section_writer`
 
 ## 错误信息
 
-planner: batch 0 failed after 3 attempts: All connection attempts failed
+section_writer: section 'AI智能体工程与治理' failed after 3 attempts: All connection attempts failed
 
 本次未生成降级日报内容。请修复对应流程后重新运行日报生成。
