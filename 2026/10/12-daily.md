@@ -6,6 +6,6 @@
 
 ## 错误信息
 
-section_writer: section 'AI产品与开发者基础设施' failed after 3 attempts: Item 'Postgres性能瓶颈常在存储' has no valid source_ids
+section_writer: section 'AI编程与智能体工具' failed after 3 attempts: Item 'Perplexity 推出自动化工作流' has no valid source_ids
 
 本次未生成降级日报内容。请修复对应流程后重新运行日报生成。
